@@ -3,4 +3,5 @@ def luxury(name, list):
     if name in list:
         print(name + " brand is in the list.")
     else:
-        print(name + " brand is not in the list.")
+        print(name + " brand is NOT in the list.")
+
