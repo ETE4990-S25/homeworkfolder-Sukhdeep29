@@ -1,0 +1,4 @@
+2025-04-27 23:05:21,534 | ui | INFO | UI started
+2025-04-27 23:05:21,534 | ui | WARNING | Slow response
+2025-04-27 23:05:21,535 | ui | ERROR | Render error
+2025-04-27 23:05:21,535 | ui | CRITICAL | UI crash

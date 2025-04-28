@@ -1,0 +1,4 @@
+2025-04-27 23:05:21,537 | frontend.flask | INFO | Flask running
+2025-04-27 23:05:21,538 | frontend.flask | WARNING | Session timeout
+2025-04-27 23:05:21,538 | frontend.flask | ERROR | Submission error
+2025-04-27 23:05:21,538 | frontend.flask | CRITICAL | Flask crash

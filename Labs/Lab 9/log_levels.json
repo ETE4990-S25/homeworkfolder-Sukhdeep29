@@ -1,0 +1,18 @@
+{
+    "INFO": {
+        "Database connected": 14,
+        "Database connected successfully": 1,
+        "Database query executed": 2
+    },
+    "WARNING": {
+        "Slow query": 14,
+        "Slow query detected": 1
+    },
+    "ERROR": {
+        "Database corruption": 15
+    },
+    "CRITICAL": {
+        "Database failure": 1,
+        "Database failure detected": 14
+    }
+}
