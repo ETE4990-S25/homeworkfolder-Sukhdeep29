@@ -1,0 +1,591 @@
+{
+    "exchange_rates": {
+        "@date": "Unknown",
+        "exchange_rate": [
+            {
+                "@to_currency": "AUD",
+                "rate": "1.55829945"
+            },
+            {
+                "@to_currency": "CAD",
+                "rate": "1.39631702"
+            },
+            {
+                "@to_currency": "CHF",
+                "rate": "0.83649239"
+            },
+            {
+                "@to_currency": "CNY",
+                "rate": "7.20481656"
+            },
+            {
+                "@to_currency": "EUR",
+                "rate": "0.89338901"
+            },
+            {
+                "@to_currency": "GBP",
+                "rate": "0.75206629"
+            },
+            {
+                "@to_currency": "HKD",
+                "rate": "7.81396585"
+            },
+            {
+                "@to_currency": "IDR",
+                "rate": "16441.15068428"
+            },
+            {
+                "@to_currency": "INR",
+                "rate": "85.57879857"
+            },
+            {
+                "@to_currency": "JPY",
+                "rate": "145.49274740"
+            },
+            {
+                "@to_currency": "KRW",
+                "rate": "1394.85502609"
+            },
+            {
+                "@to_currency": "MYR",
+                "rate": "4.28443390"
+            },
+            {
+                "@to_currency": "NZD",
+                "rate": "1.69581108"
+            },
+            {
+                "@to_currency": "PHP",
+                "rate": "55.64060594"
+            },
+            {
+                "@to_currency": "SGD",
+                "rate": "1.29768341"
+            },
+            {
+                "@to_currency": "THB",
+                "rate": "33.28052481"
+            },
+            {
+                "@to_currency": "TWD",
+                "rate": "30.15358757"
+            },
+            {
+                "@to_currency": "VND",
+                "rate": "25928.34661571"
+            },
+            {
+                "@to_currency": "AED",
+                "rate": "3.67259379"
+            },
+            {
+                "@to_currency": "BGN",
+                "rate": "1.74712442"
+            },
+            {
+                "@to_currency": "BRL",
+                "rate": "5.68413653"
+            },
+            {
+                "@to_currency": "CZK",
+                "rate": "22.27469560"
+            },
+            {
+                "@to_currency": "DKK",
+                "rate": "6.66408512"
+            },
+            {
+                "@to_currency": "EGP",
+                "rate": "50.14402644"
+            },
+            {
+                "@to_currency": "HUF",
+                "rate": "360.03509674"
+            },
+            {
+                "@to_currency": "ILS",
+                "rate": "3.55132422"
+            },
+            {
+                "@to_currency": "ISK",
+                "rate": "130.29093900"
+            },
+            {
+                "@to_currency": "MDL",
+                "rate": "17.40830019"
+            },
+            {
+                "@to_currency": "MXN",
+                "rate": "19.49354686"
+            },
+            {
+                "@to_currency": "NOK",
+                "rate": "10.39636598"
+            },
+            {
+                "@to_currency": "PLN",
+                "rate": "3.80379988"
+            },
+            {
+                "@to_currency": "RON",
+                "rate": "4.55949218"
+            },
+            {
+                "@to_currency": "RSD",
+                "rate": "104.73604778"
+            },
+            {
+                "@to_currency": "RUB",
+                "rate": "80.84667526"
+            },
+            {
+                "@to_currency": "SEK",
+                "rate": "9.77164699"
+            },
+            {
+                "@to_currency": "TRY",
+                "rate": "38.83228053"
+            },
+            {
+                "@to_currency": "UAH",
+                "rate": "41.49872870"
+            },
+            {
+                "@to_currency": "ZAR",
+                "rate": "18.09314256"
+            },
+            {
+                "@to_currency": "JOD",
+                "rate": "0.70903483"
+            },
+            {
+                "@to_currency": "LBP",
+                "rate": "89429.54545455"
+            },
+            {
+                "@to_currency": "CLP",
+                "rate": "939.52382658"
+            },
+            {
+                "@to_currency": "AZN",
+                "rate": "1.70004325"
+            },
+            {
+                "@to_currency": "BDT",
+                "rate": "121.96393762"
+            },
+            {
+                "@to_currency": "DZD",
+                "rate": "133.14931245"
+            },
+            {
+                "@to_currency": "GEL",
+                "rate": "2.74035080"
+            },
+            {
+                "@to_currency": "KZT",
+                "rate": "510.13636787"
+            },
+            {
+                "@to_currency": "SAR",
+                "rate": "3.75051634"
+            },
+            {
+                "@to_currency": "TND",
+                "rate": "3.01527835"
+            },
+            {
+                "@to_currency": "AFN",
+                "rate": "70.18608183"
+            },
+            {
+                "@to_currency": "ALL",
+                "rate": "87.68090048"
+            },
+            {
+                "@to_currency": "AMD",
+                "rate": "386.71609791"
+            },
+            {
+                "@to_currency": "AOA",
+                "rate": "918.82705021"
+            },
+            {
+                "@to_currency": "ARS",
+                "rate": "1138.47497274"
+            },
+            {
+                "@to_currency": "AWG",
+                "rate": "1.78997677"
+            },
+            {
+                "@to_currency": "BAM",
+                "rate": "1.74721279"
+            },
+            {
+                "@to_currency": "BBD",
+                "rate": "2.00000000"
+            },
+            {
+                "@to_currency": "BHD",
+                "rate": "0.37609434"
+            },
+            {
+                "@to_currency": "BIF",
+                "rate": "2936.64999107"
+            },
+            {
+                "@to_currency": "BND",
+                "rate": "1.29882080"
+            },
+            {
+                "@to_currency": "BOB",
+                "rate": "6.90954564"
+            },
+            {
+                "@to_currency": "BSD",
+                "rate": "1.00000000"
+            },
+            {
+                "@to_currency": "BWP",
+                "rate": "13.53180275"
+            },
+            {
+                "@to_currency": "BZD",
+                "rate": "2.00000000"
+            },
+            {
+                "@to_currency": "CDF",
+                "rate": "2850.16732178"
+            },
+            {
+                "@to_currency": "COP",
+                "rate": "4201.73261394"
+            },
+            {
+                "@to_currency": "CRC",
+                "rate": "506.20265518"
+            },
+            {
+                "@to_currency": "CUP",
+                "rate": "24.00000000"
+            },
+            {
+                "@to_currency": "CVE",
+                "rate": "98.50366268"
+            },
+            {
+                "@to_currency": "DJF",
+                "rate": "177.72110059"
+            },
+            {
+                "@to_currency": "DOP",
+                "rate": "58.80689230"
+            },
+            {
+                "@to_currency": "ERN",
+                "rate": "15.38002501"
+            },
+            {
+                "@to_currency": "ETB",
+                "rate": "135.00232267"
+            },
+            {
+                "@to_currency": "FJD",
+                "rate": "2.29676612"
+            },
+            {
+                "@to_currency": "GHS",
+                "rate": "12.39476505"
+            },
+            {
+                "@to_currency": "GIP",
+                "rate": "0.75281401"
+            },
+            {
+                "@to_currency": "GMD",
+                "rate": "71.26139003"
+            },
+            {
+                "@to_currency": "GNF",
+                "rate": "8622.26889405"
+            },
+            {
+                "@to_currency": "GTQ",
+                "rate": "7.67634447"
+            },
+            {
+                "@to_currency": "GYD",
+                "rate": "209.22002859"
+            },
+            {
+                "@to_currency": "HNL",
+                "rate": "25.98820797"
+            },
+            {
+                "@to_currency": "HTG",
+                "rate": "130.65988058"
+            },
+            {
+                "@to_currency": "IQD",
+                "rate": "1310.00000000"
+            },
+            {
+                "@to_currency": "JMD",
+                "rate": "158.93264249"
+            },
+            {
+                "@to_currency": "KES",
+                "rate": "129.24236198"
+            },
+            {
+                "@to_currency": "KGS",
+                "rate": "87.44997320"
+            },
+            {
+                "@to_currency": "KHR",
+                "rate": "4004.77934608"
+            },
+            {
+                "@to_currency": "KMF",
+                "rate": "439.49236198"
+            },
+            {
+                "@to_currency": "KWD",
+                "rate": "0.30739682"
+            },
+            {
+                "@to_currency": "LAK",
+                "rate": "20429.69447919"
+            },
+            {
+                "@to_currency": "LKR",
+                "rate": "298.47981061"
+            },
+            {
+                "@to_currency": "LRD",
+                "rate": "199.57003752"
+            },
+            {
+                "@to_currency": "LSL",
+                "rate": "18.10505628"
+            },
+            {
+                "@to_currency": "LYD",
+                "rate": "5.51509737"
+            },
+            {
+                "@to_currency": "MAD",
+                "rate": "9.28801143"
+            },
+            {
+                "@to_currency": "MGA",
+                "rate": "4518.50991603"
+            },
+            {
+                "@to_currency": "MKD",
+                "rate": "55.01876005"
+            },
+            {
+                "@to_currency": "MMK",
+                "rate": "2099.96426657"
+            },
+            {
+                "@to_currency": "MNT",
+                "rate": "3572.83366089"
+            },
+            {
+                "@to_currency": "MOP",
+                "rate": "8.04913346"
+            },
+            {
+                "@to_currency": "MRU",
+                "rate": "39.63015901"
+            },
+            {
+                "@to_currency": "MUR",
+                "rate": "45.98391996"
+            },
+            {
+                "@to_currency": "MVR",
+                "rate": "15.41004109"
+            },
+            {
+                "@to_currency": "MWK",
+                "rate": "1734.35545828"
+            },
+            {
+                "@to_currency": "MZN",
+                "rate": "63.87350366"
+            },
+            {
+                "@to_currency": "NAD",
+                "rate": "18.10505628"
+            },
+            {
+                "@to_currency": "NGN",
+                "rate": "1600.14999107"
+            },
+            {
+                "@to_currency": "NIO",
+                "rate": "36.79757013"
+            },
+            {
+                "@to_currency": "NPR",
+                "rate": "136.95908522"
+            },
+            {
+                "@to_currency": "OMR",
+                "rate": "0.38449169"
+            },
+            {
+                "@to_currency": "PAB",
+                "rate": "1.00000000"
+            },
+            {
+                "@to_currency": "PEN",
+                "rate": "3.68851759"
+            },
+            {
+                "@to_currency": "PGK",
+                "rate": "4.10675362"
+            },
+            {
+                "@to_currency": "PKR",
+                "rate": "281.68096604"
+            },
+            {
+                "@to_currency": "PYG",
+                "rate": "7987.56377127"
+            },
+            {
+                "@to_currency": "QAR",
+                "rate": "3.63998571"
+            },
+            {
+                "@to_currency": "RWF",
+                "rate": "1418.90780775"
+            },
+            {
+                "@to_currency": "SBD",
+                "rate": "8.35420761"
+            },
+            {
+                "@to_currency": "SCR",
+                "rate": "14.61425764"
+            },
+            {
+                "@to_currency": "SDG",
+                "rate": "600.47069859"
+            },
+            {
+                "@to_currency": "SOS",
+                "rate": "571.50000000"
+            },
+            {
+                "@to_currency": "SRD",
+                "rate": "36.64284438"
+            },
+            {
+                "@to_currency": "SSP",
+                "rate": "4505.00000000"
+            },
+            {
+                "@to_currency": "STN",
+                "rate": "21.88672503"
+            },
+            {
+                "@to_currency": "SVC",
+                "rate": "8.75004467"
+            },
+            {
+                "@to_currency": "SZL",
+                "rate": "18.10505628"
+            },
+            {
+                "@to_currency": "TJS",
+                "rate": "10.37573700"
+            },
+            {
+                "@to_currency": "TMT",
+                "rate": "3.50000000"
+            },
+            {
+                "@to_currency": "TOP",
+                "rate": "2.37582634"
+            },
+            {
+                "@to_currency": "TTD",
+                "rate": "6.77550473"
+            },
+            {
+                "@to_currency": "TZS",
+                "rate": "2688.31123816"
+            },
+            {
+                "@to_currency": "UGX",
+                "rate": "3652.15293907"
+            },
+            {
+                "@to_currency": "UYU",
+                "rate": "41.64446395"
+            },
+            {
+                "@to_currency": "UZS",
+                "rate": "12959.86242630"
+            },
+            {
+                "@to_currency": "VES",
+                "rate": "94.19275600"
+            },
+            {
+                "@to_currency": "VUV",
+                "rate": "120.77005539"
+            },
+            {
+                "@to_currency": "WST",
+                "rate": "2.77997141"
+            },
+            {
+                "@to_currency": "XAF",
+                "rate": "585.98981597"
+            },
+            {
+                "@to_currency": "XCD",
+                "rate": "2.70001787"
+            },
+            {
+                "@to_currency": "XCG",
+                "rate": "1.78997677"
+            },
+            {
+                "@to_currency": "XOF",
+                "rate": "585.98981597"
+            },
+            {
+                "@to_currency": "XPF",
+                "rate": "106.60326961"
+            },
+            {
+                "@to_currency": "YER",
+                "rate": "244.16651778"
+            },
+            {
+                "@to_currency": "ZMW",
+                "rate": "26.76210470"
+            },
+            {
+                "@to_currency": "BYN",
+                "rate": "3.27256698"
+            },
+            {
+                "@to_currency": "IRR",
+                "rate": "41972.22222222"
+            },
+            {
+                "@to_currency": "SYP",
+                "rate": "12981.09965636"
+            }
+        ]
+    }
+}
