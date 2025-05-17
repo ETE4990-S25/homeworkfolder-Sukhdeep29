@@ -88,7 +88,9 @@ import json
 import xml.etree.ElementTree as ET
 
 def save_data(date, currency, xml_data):
-    directory = f"data/{currency}"
+    BASE_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "Take Home Final")
+    directory = os.path.join(BASE_DIR, f"data/{currency}")
+
     os.makedirs(directory, exist_ok=True)
 
     # Save XML file
